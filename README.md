@@ -21,7 +21,7 @@ To get started with IgnisOS, follow these steps:
 ### **Building the OS**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/IgnisOS.git
+   git clone https://github.com/laxvc/IgnisOS.git
    cd IgnisOS
 ### **Development Goals**
 IgnisOS is currently in active development, with plans to implement the following:

@@ -1,0 +1,6 @@
+IgnisOS Version Information
+
+Version: 1.0.0
+Release Date: 2024-10-10  ;
+Author: Surya B           ; 
+Description: A Unix-based operating system designed for interactivity and ease of use.

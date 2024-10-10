@@ -23,3 +23,12 @@ To get started with IgnisOS, follow these steps:
    ```bash
    git clone https://github.com/your-repo/IgnisOS.git
    cd IgnisOS
+### **Development Goals**
+IgnisOS is currently in active development, with plans to implement the following:
+
+Improved hardware drivers (USB, sound, network)
+More advanced file systems
+User-friendly graphical user interface (GUI)
+Full networking support
+### **Contributing**
+Contributions are welcome! If you'd like to contribute to IgnisOS, please fork the repository, create a branch, and submit a pull request. Be sure to follow the coding guidelines outlined in the docs/ folder.

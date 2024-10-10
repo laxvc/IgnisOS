@@ -2,20 +2,27 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+This section outlines the versions of IgnisOS that are currently supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.0.x   | :white_check_mark: |
+| 0.9.x   | :x:                |
+| < 0.9   | :x:                |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+To report a vulnerability in IgnisOS, please follow these steps:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+1. **Submit an Issue**: Open a new issue in the [IgnisOS GitHub Repository](https://github.com/laxvc/IgnisOS/issues) and label it as a "Security" issue.
+2. **Provide Detailed Information**: Include as much detail as possible, such as:
+   - A summary of the vulnerability
+   - Steps to reproduce the issue
+   - Impact assessment (e.g., data exposure, unauthorized access)
+3. **Expect Acknowledgment**: You will receive an acknowledgment within 72 hours of your submission.
+4. **Updates on the Status**: We will provide updates on the status of your report approximately every 7 days.
+5. **Resolution Outcome**: If the vulnerability is accepted, we will work on a fix and release a patch in a timely manner. If declined, we will provide an explanation for the decision.
+
+## Security Updates
+
+We are committed to maintaining the security of IgnisOS. Security updates will be released as necessary, and users are encouraged to upgrade to the latest supported version to ensure they have the latest security enhancements.
